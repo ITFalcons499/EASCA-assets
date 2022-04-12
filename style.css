@@ -48,16 +48,16 @@
 font-family: 'Poppins', sans-serif;
 font-family: 'Merriweather', serif;*/
 
-@import url('font-awesome.css');
-@import url('flaticon.css');
-@import url('animate.css');
-@import url('owl.css');
-@import url('jquery-ui.css');
-@import url('jquery.fancybox.min.css');
-@import url('jquery.mCustomScrollbar.min.css');
-@import url('data-animation.css');
+@import url('https://cdn.jsdelivr.net/gh/ITFalcons499/EASCA-assets@main/font-awesome.css');
+@import url('https://cdn.jsdelivr.net/gh/ITFalcons499/EASCA-assets@main/flaticon.css');
+@import url('https://cdn.jsdelivr.net/gh/ITFalcons499/EASCA-assets@main/animate.css');
+@import url('https://cdn.jsdelivr.net/gh/ITFalcons499/EASCA-assets@main/owl.css');
+@import url('https://cdn.jsdelivr.net/gh/ITFalcons499/EASCA-assets@main/jquery-ui.css');
+@import url('https://cdn.jsdelivr.net/gh/ITFalcons499/EASCA-assets@main/jquery.fancybox.min.css');
+@import url('https://cdn.jsdelivr.net/gh/ITFalcons499/EASCA-assets@main/jquery.mCustomScrollbar.min.css');
+@import url('https://cdn.jsdelivr.net/gh/ITFalcons499/EASCA-assets@main/data-animation.css');
 @import url('https://cdn.jsdelivr.net/gh/ITFalcons499/EASCA-assets@main/flaticon-2/flaticon.css');
-@import url('custom-animate.css');
+@import url('https://cdn.jsdelivr.net/gh/ITFalcons499/EASCA-assets@main/custom-animate.css');
 
 /*** 
 
